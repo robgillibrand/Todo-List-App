@@ -1,4 +1,5 @@
-# Todo-List-App
+# Todo List App - Project 8 OpenClassrooms 
+
 To see the working app:
 https://robgillibrand.github.io/Todo-List-App/
 
